@@ -1,3 +1,3 @@
-# lshyeye.github.io
-# MY blog
-# hexo + github
+lshyeye.github.io
+MY blog
+hexo + github
